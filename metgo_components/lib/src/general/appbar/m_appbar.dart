@@ -54,7 +54,7 @@ class _MgAppBarState extends State<MgAppBar> {
         Align(
           alignment: Alignment.bottomCenter,
           child: Text(
-            "Event Name",
+            "sadfasdfasdfasdfasdf  Name",
             style: TextStyle(color: Colors.white, fontSize: 25),
           ),
         )
