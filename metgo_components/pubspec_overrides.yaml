@@ -1,4 +1,0 @@
-# melos_managed_dependency_overrides: metgo_resources
-dependency_overrides:
-  metgo_resources:
-    path: ../metgo_resources
