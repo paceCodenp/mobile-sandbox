@@ -20,8 +20,12 @@ To get started with the Common Image Picker, follow these simple steps:
 1. **Installation:** Add the library to your project from the github repo
 
 ```shell
-Todo: write path instruction here
-
+package_name:
+    git:
+      url: git_url _link.git
+      ref: main
+      path: mobile-sandbox/
+      version: ^0.0.1
 ```
 
 2. **Integration:** Import the library and initialize it in your project.
